@@ -1,0 +1,7 @@
+C:\Users\maste\Documents\Visual Studio 2017\Projects\RsApiClient\RsApiClient\bin\Debug\RsApiClient.dll
+C:\Users\maste\Documents\Visual Studio 2017\Projects\RsApiClient\RsApiClient\bin\Debug\RsApiClient.pdb
+C:\Users\maste\Documents\Visual Studio 2017\Projects\RsApiClient\RsApiClient\obj\Debug\RsApiClient.dll
+C:\Users\maste\Documents\Visual Studio 2017\Projects\RsApiClient\RsApiClient\obj\Debug\RsApiClient.pdb
+C:\Users\maste\Documents\Visual Studio 2017\Projects\RsApiClient\RsApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maste\Documents\Visual Studio 2017\Projects\RsApiClient\RsApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maste\documents\visual studio 2017\Projects\RsApiClient\RsApiClient\obj\Debug\RsApiClient.csprojResolveAssemblyReference.cache
